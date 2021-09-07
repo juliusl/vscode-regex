@@ -27,6 +27,7 @@
     "onLanguage:vue",
     "onLanguage:php",
     "onLanguage:haxe",
+    "onLanguage:shellscript",
     "onCommand:extension.toggleRegexPreview"
   ],
   "main": "./out/extension",

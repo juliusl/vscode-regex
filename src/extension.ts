@@ -35,7 +35,7 @@ www.demo.com	http://foo.co.uk/
 https://marketplace.visualstudio.com/items?itemName=chrmarti.regex
 https://github.com/chrmarti/vscode-regex
 `;
-    const languages = ['javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'vue', 'php', 'haxe'];
+    const languages = ['javascript', 'javascriptreact', 'typescript', 'typescriptreact', 'vue', 'php', 'haxe', 'shellscript' ];
 
     const decorators = new Map<vscode.TextEditor, RegexMatchDecorator>();
 
